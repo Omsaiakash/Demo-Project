@@ -1,0 +1,24 @@
+{
+    "token": "90938789|-31948831947259813|90946001",
+    "cmd": "UPDATE",
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "jsonStr": {
+       "6":{
+        "full_name": "Akash",
+        "email_address":"akash55@gmail.com",
+        "mobile_number": 1542457835
+
+      },
+       "7":{
+        "full_name":"Harsha",
+        "email_address":"Harsha25@gmail.com",
+        "mobile_number": 1547896532
+      },
+       "8":{
+        "full_name":"Akhil",
+        "email_address":"akhil145@gmail.com"
+        "mobile_number": 15478962548
+      }
+   }
+}
