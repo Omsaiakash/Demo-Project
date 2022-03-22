@@ -1,0 +1,31 @@
+{
+    "token": "90938789|-31948831947259813|90946001",
+    "cmd": "PUT_ALL",
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "templateStr": {},
+    "colsAutoIndex": true,
+    "jsonStr": [
+        {
+            "name": "Akash",
+            "email": "akash@gmail.com",
+            "password": "3293",
+            "passwrd": "3293"
+
+        },
+        {
+            "name": "Harsha",
+            "email": "Harsha@gmail.com",
+            "password": "3823",
+            "passwrd": "3823"
+
+        },
+        {
+            "name": "Akhil",
+            "email": "akhil@gmail.com",
+            "password": "3273",
+            "passwrd": "3273"
+
+        }
+    ]
+}
